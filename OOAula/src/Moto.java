@@ -1,0 +1,1 @@
+class Moto extends Veiculo

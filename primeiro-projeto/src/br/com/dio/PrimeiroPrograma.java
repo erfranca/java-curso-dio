@@ -2,6 +2,10 @@ package br.com.dio;
 
 public class PrimeiroPrograma {
     public static void main(String[] args) {
-        System.out.println("Hello World");
+
+        int i = 3;
+        int soma = (10 - 5 * 2 + --i);
+        System.out.println(soma);
+
     }
 }

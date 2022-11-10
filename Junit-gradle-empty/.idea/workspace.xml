@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8ac357cf-7e46-4324-acb8-e1f05e79e0d7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../CalculadoraMedia/src/CalculadoradeMedias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Junit-maven-empty/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Junit-maven-empty/src/test/java/PessoaTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOAula/src/Caminhao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOAula/src/Faxineiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOAula/src/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOAula/src/Gerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOAula/src/Moto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOAula/src/RodarAplicacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOAula/src/RodarAplicacaoHeranca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOAula/src/Veiculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOAula/src/Vendedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOAula/src/one/digital/oo/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOAula/src/one/digital/oo/ClasseFilha1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOAula/src/one/digital/oo/ClasseFilha2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOAula/src/one/digital/oo/ClasseMae.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOAula/src/one/digital/oo/OperacaoMatematica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOAula/src/one/digital/oo/RodarAplicacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UnchekedException/src/br/com/dio/exceptions/CheckedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UnchekedException/src/br/com/dio/exceptions/DivisaoNaoExataException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UnchekedException/src/br/com/dio/exceptions/ExceptionCustomizada_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UnchekedException/src/br/com/dio/exceptions/ExceptionCustomizada_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UnchekedException/src/br/com/dio/exceptions/UnchekedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../primeiro-projeto/src/br/com/dio/AboutMe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../primeiro-projeto/src/br/com/dio/CaixaEletrônico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../primeiro-projeto/src/br/com/dio/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../primeiro-projeto/src/br/com/dio/DesafioArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../primeiro-projeto/src/br/com/dio/DesafioCalculoSimples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../primeiro-projeto/src/br/com/dio/DesafioVetor3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../primeiro-projeto/src/br/com/dio/Emprestimo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../primeiro-projeto/src/br/com/dio/ExemploDoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../primeiro-projeto/src/br/com/dio/ExemploFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../primeiro-projeto/src/br/com/dio/ExemploForArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../primeiro-projeto/src/br/com/dio/ExemploList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../primeiro-projeto/src/br/com/dio/ExemploOredenacaoList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../primeiro-projeto/src/br/com/dio/ExemploWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../primeiro-projeto/src/br/com/dio/ExercicioProposto01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../primeiro-projeto/src/br/com/dio/ExercicioPropostoList01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../primeiro-projeto/src/br/com/dio/ExercicioStreamAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../primeiro-projeto/src/br/com/dio/Mensagem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../primeiro-projeto/src/br/com/dio/PlanoOperadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../primeiro-projeto/src/br/com/dio/Quadrilatero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../primeiro-projeto/src/br/com/dio/ResultadoEscolar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../primeiro-projeto/src/br/com/dio/SistemaMedida.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiro-projeto/src/br/com/dio/PrimeiroPrograma.java" beforeDir="false" afterPath="$PROJECT_DIR$/../primeiro-projeto/src/br/com/dio/PrimeiroPrograma.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HGVRXtFMjQBQwVt4aZ77cZynsZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ac357cf-7e46-4324-acb8-e1f05e79e0d7" name="Changes" comment="" />
+      <created>1667911401755</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667911401755</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
